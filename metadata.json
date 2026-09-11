@@ -1,0 +1,6 @@
+{
+  "name": "엑셀 검색기 PRO",
+  "description": "스마트 엑셀 시트 검색 및 분석 도구 (카드 뷰 & 테이블 뷰)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
